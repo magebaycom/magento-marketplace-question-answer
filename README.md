@@ -1,4 +1,4 @@
-<h2><strong>Magento Marketplace Question Answer</strong></h2>
+<h1><strong>Magento Marketplace Question Answer</strong></h1>
 
 <p>By using this module, Buyers can ask questions to sellers about their products, and Sellers can answer that question. The administrator will manage all questions and answers. Buyers can like or dislike all feedback.</p>
 
